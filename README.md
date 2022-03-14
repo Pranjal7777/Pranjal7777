@@ -92,8 +92,3 @@ I'm 22-year-old boy on an intention to enhance as a Computer Vision engineer. I 
 [![Spotify](https://novatorem2-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/v3u6o6qjexr1zv9w39l6c4qq2)
 
 
-------
-
-
-Credit: [Sourab Maity](https://github.com/sourabmaity)
-Last Edited on: 02/07/2022
