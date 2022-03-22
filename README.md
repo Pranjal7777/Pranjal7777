@@ -1,18 +1,14 @@
 <!-- <img src="https://github.com/sourabmaity/sourabmaity/blob/main/text.gif" height="30"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"><a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> -->
 
-<h1> Hello i'm Pranjal </h1>
-<img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" >
+<h1 align="center">Hi 👋, I'm Pranjal Khobragade</h1>
+<h3 align="center">A passionate Full Stack Web developer from India</h3>
 
-<!-- I'm 22-year-old boy on an intention to enhance as a Computer Vision engineer. I love building ML, AI and mobile apps. -->
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-- 🔭 A passionate MERN stack developer from India
-<!-- - 🌱 I’m currently learning custom object detection
-- 👯 I’m looking to collaborate on Computer Vision
-- 🤔 I’m looking for a good project
-- 💬 Ask me about Computer Vision
-- 📫 How to reach me: [maitysourab@gmail.com](mailto:maitysourab@gmail.com)
-- 😄 Pronouns: He --> </br>
-- ⚡ Anime Lover Fitness Freak  </br>
+- 👨‍💻 All of my projects are available at [https://pranjalk-portfolio.netlify.app](https://pranjalk-portfolio.netlify.app)
+
+- 📫 How to reach me **khobragade.pranjal7@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1LPbZJFhXAzIyHkcOdjlwq1E_alPn3DF0/view?usp=sharing](https://drive.google.com/file/d/1LPbZJFhXAzIyHkcOdjlwq1E_alPn3DF0/view?usp=sharing)
+
 
 <!-- <div align="center">
 <a href="https://www.buymeacoffee.com/maitysourab" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a></div> -->
